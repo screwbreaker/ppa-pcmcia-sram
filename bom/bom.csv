@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"SW1";"SW_SPDT_CK-JS102011SAQN";1;"RAM/Disk";;;
+2;"C14,C3,C5,C6,C7,C8,C9,C10,C11,C12,C13,C4";"C_0805_HandSoldering";12;"0,1uF";;;
+3;"C1,C2";"C_1206_HandSoldering";2;"10uF/6,3V";;;
+4;"U1";"SOT-223-3_TabPin2";1;"LM1117-3.3";;;
+5;"IC2,IC3,IC4";"SSOP-20_5.3x7.2mm_Pitch0.65mm";3;"74LCX245MTC";;;
+6;"IC5,IC6,IC7";"SSOP-20_5.3x7.2mm_Pitch0.65mm";3;"74LCX541TTR";;;
+7;"JTAG1";"Socket_Strip_Straight_1x06_Pitch2.54mm";1;"MA06-1";;;
+8;"X1";"pcmcia";1;"PCMCIA female";;;
+9;"IC1";"TSOP-I-48_18.4x12mm_Pitch0.5mm";1;"AS6C3216-55";;;
+10;"IC8";"TQFP-44_10x10mm_Pitch0.8mm";1;"XC9536XL_44VQ";;;
