@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name sakura-rescue)(type Legacy)(uri ${KIPRJMOD}/sakura-rescue.lib)(options "")(descr ""))
+  (lib (name amiga)(type Legacy)(uri ${KIPRJMOD}/library/amiga.lib)(options "")(descr ""))
+  (lib (name void)(type Legacy)(uri ${KIPRJMOD}/library/void.lib)(options "")(descr ""))
+)
