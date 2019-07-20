@@ -37,4 +37,4 @@ This board is provided to you 'as is' and without any express or implied warrant
 
 ### Thanks
 - A special Thanks to: [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) for the help in the development.
-- DanyPPC who started the discussion, [SukkoPera](https://github.com/SukkoPera), Mck, and all the other guys on the Italian Amiga forum [Amigapage] (https://www.amigapage.it/index.php?op=v&pl=forum&id=F012019-2-9&page=1)
+- DanyPPC who started the discussion, [SukkoPera](https://github.com/SukkoPera), Mck, and all the other guys on the Italian Amiga forum [Amigapage](https://www.amigapage.it/index.php?op=v&pl=forum&id=F012019-2-9&page=1)
