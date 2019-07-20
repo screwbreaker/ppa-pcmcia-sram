@@ -36,5 +36,5 @@ This board is Open Hardware. If you make any modifications to the board, please 
 This board is provided to you 'as is' and without any express or implied warranties whatsoever with respect to its functionality, operability or use, including, without limitation, any implied warranties of merchantability, fitness for a particular purpose or infringement. We expressly disclaim any liability whatsoever for any direct, indirect, consequential, incidental or special damages, including, without limitation, lost revenues, lost profits, losses resulting from business interruption or loss of data, regardless of the form of action or legal theory under which the liability may be asserted, even if advised of the possibility or likelihood of such damages.
 
 ### Thanks
-- A special Thanks to: [EmberHeavyIndustries] (https://github.com/EmberHeavyIndustries) for the help in the development.
+- A special Thanks to: [EmberHeavyIndustries](https://github.com/EmberHeavyIndustries) for the help in the development.
 - DanyPPC who started the discussion, [SukkoPera](https://github.com/SukkoPera), Mck, and all the other guys on the Italian Amiga forum [Amigapage] (https://www.amigapage.it/index.php?op=v&pl=forum&id=F012019-2-9&page=1)
